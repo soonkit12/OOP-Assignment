@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1442834438 source:c:\users\oh\desktop\assignment\assignment2\bookitem.cpp
+	"BookItem.hpp"
+
+1443633480 c:\users\oh\desktop\assignment\assignment2\bookitem.hpp
+	<iostream>
+	<string>
+
+1443637148 source:c:\users\oh\desktop\assignment\assignment2\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+	"BookItem.hpp"
+	"sortedlist.hpp"
+
+1443632792 c:\users\oh\desktop\assignment\assignment2\sortedlist.hpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"Node.hpp"
+	"BookItem.hpp"
+
+1442834571 c:\users\oh\desktop\assignment\assignment2\node.hpp
+	<iostream>
+
+1442834587 c:\users\oh\desktop\assignment\assignment2\sorting.hpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1443636278 source:c:\users\oh\desktop\assignment\assignment2\sortedlist.cpp
+	"sortedlist.hpp"
+
+1442834438 source:c:\users\oh\desktop\assignment2\bookitem.cpp
+	"BookItem.hpp"
+
+1443633480 c:\users\oh\desktop\assignment2\bookitem.hpp
+	<iostream>
+	<string>
+
+1443639343 source:c:\users\oh\desktop\assignment2\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+	"BookItem.hpp"
+	"sortedlist.hpp"
+
+1443639396 c:\users\oh\desktop\assignment2\sortedlist.hpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"Node.hpp"
+	"BookItem.hpp"
+
+1442834571 c:\users\oh\desktop\assignment2\node.hpp
+	<iostream>
+
+1443639343 source:c:\users\oh\desktop\assignment2\sortedlist.cpp
+	"sortedlist.hpp"
+
